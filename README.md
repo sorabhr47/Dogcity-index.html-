@@ -37,12 +37,12 @@ To deploy this project run
 ## Features
 
 - Priority settings.
-- like comment subscribe options.
+- Like comment subscribe options.
 - Task progress bar
-- profile view and personal post.
+- Profile view and personal post.
 - Search & sort.
 - Bin option.
-- responsive sidebar options.
+- Responsive sidebar options.
 
 
 ## Media source
